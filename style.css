@@ -37,10 +37,16 @@
 .main .header .head nav a{
     text-decoration: none;
 }
+.main .header .head nav a:hover{
+    color: yellow;
+}
 .main .header .head .button{
     display: flex;
     gap: 20px;
 }
 .main .header .head .button a{
     text-decoration: none;
+}
+.main .header .head .button a:hover{
+    color: red;
 }
